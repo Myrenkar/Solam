@@ -1,0 +1,4 @@
+module ifaddrs [system] {
+    header "CHeader.h"
+    export *
+}
